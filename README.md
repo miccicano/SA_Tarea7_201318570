@@ -41,7 +41,7 @@ pipeline {
         
     stage('Cloning Git') {
       steps {
-        git 'https://github.com/JavierHevia/Tarea7SA'
+        git 'https://github.com/miccicano/SA_Tarea7_201318570.git'
       }
     }
         
